@@ -1,8 +1,8 @@
-name: ExamplePlugin
+name: Main
 api-version: 1.18
 authors:
   - You
-main: org.example.exampleplugin.ExamplePlugin
+main: de.philgamer.adminfeatures.Main
 version: 1.0.0
 libraries:
   - "net.axay:kspigot:1.18.0"
